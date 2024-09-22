@@ -1,0 +1,24 @@
+{
+    "ru": [
+        {"title": "ШИТиИ", "description": "Школа информационных технологий и инженерии", "url": "https://optim.tildacdn.pro/tild6161-6335-4333-b333-366164303534/-/cover/312x312/center/center/-/format/webp/3.png"},
+        {"title": "БШ", "description": "Бизнес школа", "url": "https://optim.tildacdn.pro/tild3234-6630-4234-b031-363962653131/-/cover/312x312/center/center/-/format/webp/___11.png"},
+        {"title": "МШЭ", "description": "Международная школа экономики", "url": "https://optim.tildacdn.pro/tild3235-3366-4439-b661-373934633538/-/cover/312x312/center/center/-/format/webp/5.png"},
+        {"title": "КМА", "description": "Казахстанская морская академия", "url": "https://optim.tildacdn.pro/tild6465-3332-4131-b735-306330373162/-/cover/312x312/center/center/-/format/webp/8.png"},
+        {"title": "ШПМ", "description": "Школа прикладной математики", "url": "https://optim.tildacdn.pro/tild3461-3464-4663-b835-336365363066/-/cover/312x312/center/center/-/format/webp/6.png"},
+        {"title": "ШХИ", "description": "Школа химической инженерии", "url": "https://optim.tildacdn.pro/tild3966-6262-4533-a262-613961646564/-/cover/312x312/center/center/-/format/webp/7.png"},
+        {"title": "ШМиЗТ", "description": "Школа материаловедения и зеленых технологий", "url": "https://optim.tildacdn.pro/tild3263-6538-4537-b562-643331333731/-/cover/312x312/center/center/-/format/webp/9.png"},
+        {"title": "ШЭиНГИ", "description": "Школа энергетики и нефтегазовой индустрии", "url": "https://optim.tildacdn.pro/tild3034-6365-4033-a637-646634656565/-/cover/312x312/center/center/-/format/webp/1.png"},
+        {"title": "ШГ", "description": "Школа геологии", "url": "https://optim.tildacdn.pro/tild6532-3561-4334-b936-343465303566/-/cover/312x312/center/center/-/format/webp/2.png"}
+    ],
+    "en": [
+        {"title": "SITE", "description": "School of Information Technology and Engineering", "url": "https://optim.tildacdn.pro/tild6161-6335-4333-b333-366164303534/-/cover/312x312/center/center/-/format/webp/3.png"},
+        {"title": "BS", "description": "Business School", "url": "https://optim.tildacdn.pro/tild3234-6630-4234-b031-363962653131/-/cover/312x312/center/center/-/format/webp/___11.png"},
+        {"title": "ISE", "description": "International School of Economics", "url": "https://optim.tildacdn.pro/tild3235-3366-4439-b661-373934633538/-/cover/312x312/center/center/-/format/webp/5.png"},
+        {"title": "KMA", "description": "Kazakhstan Maritime Academy", "url": "https://optim.tildacdn.pro/tild6465-3332-4131-b735-306330373162/-/cover/312x312/center/center/-/format/webp/8.png"},
+        {"title": "SAM", "description": "School of Applied Mathematics", "url": "https://optim.tildacdn.pro/tild3461-3464-4663-b835-336365363066/-/cover/312x312/center/center/-/format/webp/6.png"},
+        {"title": "SCE", "description": "School of Chemical Engineering", "url": "https://optim.tildacdn.pro/tild3966-6262-4533-a262-613961646564/-/cover/312x312/center/center/-/format/webp/7.png"},
+        {"title": "SMSGT", "description": "School of Materials Science and Green Technologies", "url": "https://optim.tildacdn.pro/tild3263-6538-4537-b562-643331333731/-/cover/312x312/center/center/-/format/webp/9.png"},
+        {"title": "SEPI", "description": "School of Energy and Petroleum Industry", "url": "https://optim.tildacdn.pro/tild3034-6365-4033-a637-646634656565/-/cover/312x312/center/center/-/format/webp/1.png"},
+        {"title": "SG", "description": "School of Geology", "url": "https://optim.tildacdn.pro/tild6532-3561-4334-b936-343465303566/-/cover/312x312/center/center/-/format/webp/2.png"}
+    ]
+}
