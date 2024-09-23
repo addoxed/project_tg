@@ -1,31 +1,26 @@
-from db.__db import Database as DB
+from db.__db__ import Database as DB
 
 class Users(DB):
     def __init__(self):
         super().__init__('users')
 
     def _exists(self, _id: int):
-        return self.find_one({"_id": _id} ) is not None
+        return self.find_one({"_id": _id}) is not None
+    
+    def _name(self, _id: int):
+        return self.find_one({"_id": _id})["name"]
 
-    def _new(self, _id: int, _language: str):
-        self.insert_one(
-            {
-                "_id": _id, 
-                "language": _language,
-                "signed": False
-            }
-        )
+    def _signup(self, _id: int, language: str, name: str, age: int, school_id: str):
+        self.insert_one({   
+                "_id": _id,
+                "language": language,
+                "name": name,
+                "age": age,
+                "school_id": school_id
+            })
 
-    def _signedup(self, _id: int, _name: str, _age: int, _school: str):
-        self.update_one(
-            {"_id": _id}, 
-            {
-                "signed": True,
-                "name": _name,
-                "age": _age,
-                "school": _school
-            }
-        )
-
-    def user_lang(self, _id: int):
+    def _user_lang(self, _id: int):
         return self.find_one({"_id": _id})["language"]
+    
+    def _fetch_all(self):
+        return self.find_all()

@@ -20,3 +20,4 @@ class AntiFlood(BaseMiddleware):
         else:
             self.limit[event.chat.id] = None
         return await handler(event, data)
+    

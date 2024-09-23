@@ -5,3 +5,7 @@ class SignUp(StatesGroup):
     age = State()
     school = State()
     end = State()
+
+
+class Menu(State):
+    pass
